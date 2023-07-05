@@ -71,7 +71,7 @@
   "devDependencies": {
     "@11ty/eleventy-plugin-syntaxhighlight": "^3.0.4",
     "@ava/babel": "^1.0.1",
-    "@google-cloud/secret-manager": "^3.2.2",
+    "@google-cloud/secret-manager": "^4.2.2",
     "@rollup/plugin-commonjs": "^15.1.0",
     "@rollup/plugin-json": "^4.1.0",
     "@types/cheerio": "^0.22.22",
